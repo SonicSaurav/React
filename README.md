@@ -1,7 +1,10 @@
 # React
 
 # Initialize React
--  npx create-react-app chapter1
+-  npm create vite@latest
 
 # Start Server
--  npm start
+-  npm start dev
+
+# Install Dependency 
+- npm install
