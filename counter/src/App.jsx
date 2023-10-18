@@ -3,7 +3,7 @@ import { useState } from 'react'
 
 function App() {
 
-  let [counter,setcounter] = useState(0)
+  const [counter,setcounter] = useState(0)
 
 const addValue= () => {
     console.log("value added")
